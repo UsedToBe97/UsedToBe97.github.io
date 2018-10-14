@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Hi, I'm Tianzhe Wang
+bigimg: /img/path.jpg
 ---
 
 I’m Tianzhe(Kystery) Wang, in Chinese “王天哲”, an undergraduate in Computer Science at [ACM Honors Class](https://acm.sjtu.edu.cn/home), Zhiyuan College, Shanghai Jiao Tong University (SJTU).
